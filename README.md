@@ -1,3 +1,1 @@
-<style>
-@import "/g.css"
-</style>
+<h1 style="@import '/g.css'"></h1>
