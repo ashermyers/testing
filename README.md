@@ -1,1 +1,1 @@
-<h1 onload="alert">Hiya</h1>
+<h1 onload="alert('d')">Hiya</h1>
